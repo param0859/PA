@@ -226,3 +226,8 @@ font-family: 'Raleway', sans-serif;
 	font-size: 100px !important;
 	color: blue;
 }
+
+
+.hideme {
+	opacity: 0;
+}
