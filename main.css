@@ -71,7 +71,7 @@ body {
 
 
 
-.row {
+.row1 {
 	min-height: 400px;
 	background:#29abda!important; 
 	padding-top: 70px;
@@ -250,7 +250,7 @@ for background color - chainging color
 
 */
 
-.row {
+.row1 {
   animation: pulse2 10s infinite;
 }
 
@@ -314,10 +314,27 @@ for background color - chainging color
 
 .main 
 {
-	padding-top: 70px !important;
+	padding-top: 50px !important;
 }
 
 .texta {
 	font-size: 15px;
 }
 
+.articles{
+	font-family: 'Raleway', sans-serif; 
+	text-decoration: none;
+	color: black !important;
+	padding-top: 50px;
+
+}
+
+.sikhnet:hover
+{
+	text-decoration: none;
+	color: black;
+}
+
+.sikhnet {
+	color: #29abda
+}
